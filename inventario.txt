@@ -1,1 +1,4 @@
-crear todo de nuevo
+crear la maestra de inventario v2
+
+creacion de venta al archivo v2
+>>>>>>> venta
