@@ -1,1 +1,3 @@
 crear la maestra de inventario
+
+creacion de venta al archivo
